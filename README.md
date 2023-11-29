@@ -9,3 +9,5 @@
 <li>Rawfiles</li>
 <li>Luafiles</li>
 <li>Stringtables</li>
+<p></p>
+<p>Public dumper: https://github.com/xguccijizz/dollar-tree-asset-dumper</p>
