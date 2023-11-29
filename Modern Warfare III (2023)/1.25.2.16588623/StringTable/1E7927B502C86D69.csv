@@ -1,0 +1,14 @@
+none,MainMenu,1
+sp,CampaignMenu,1
+mp,MPMainMenu,1
+cp,CPMainMenu,1
+wz,BRMainMenu,1
+mission_select,CampaignMenu,1
+new_game,CampaignMenu,1
+resume_game,CampaignMenu,1
+cinematics,CampaignMenu,1
+mission_select_offline,CampaignMenuOffline,0
+new_game_offline,CampaignMenuOffline,0
+resume_game_offline,CampaignMenuOffline,0
+cinematics_offline,CampaignMenuOffline,0
+offline_menu,MainMenuOffline,0
