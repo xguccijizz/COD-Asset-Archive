@@ -7,5 +7,5 @@
 <p><b>Contains:</b></p>
 <li>Localize</li>
 <li>Rawfiles</li>
-<li>Luafile</li>
+<li>Luafiles</li>
 <li>Stringtables</li>
